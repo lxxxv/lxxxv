@@ -3,7 +3,7 @@
 ![delphi](https://img.shields.io/badge/-Delphi-08AAD7?style=flat&logo=delphi)&nbsp;
 ![python](https://img.shields.io/badge/-Python-08AAD7?style=flat&logo=python)&nbsp;
 ![java](https://img.shields.io/badge/-Java-08AAD7?style=flat&logo=java)&nbsp;
-![c++](https://img.shields.io/badge/-C++-08AAD7?style=flat&logo=c++)&nbsp;
+![c++](https://img.shields.io/badge/-C++-08AAD7?style=flat&logo=cplusplus)&nbsp;
 <br/>
 ![spring](https://img.shields.io/badge/-Spring-08AAD7?style=flat&logo=spring)&nbsp;
 ![spark](https://img.shields.io/badge/-Spark-08AAD7?style=flat&logo=spark%20ar)&nbsp;

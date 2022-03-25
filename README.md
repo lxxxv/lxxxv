@@ -14,6 +14,7 @@
 ![redis](https://img.shields.io/badge/-Redis-08AAD7?style=flat&logo=redis)&nbsp;
 ![mariadb](https://img.shields.io/badge/-Mariadb-08AAD7?style=flat&logo=mariadb)&nbsp;
 ![sqlite](https://img.shields.io/badge/-Sqlite-08AAD7?style=flat&logo=sqlite)&nbsp;
+![elasticsearch](https://img.shields.io/badge/-Elasticsearch-08AAD7?style=flat&logo=elasticsearch)&nbsp;
 ![firebird](https://img.shields.io/badge/-Firebird-08AAD7?style=flat&logo=thunderbird)&nbsp;
 ![mssql](https://img.shields.io/badge/-mssql-08AAD7?style=flat&logo=MSsql)&nbsp;
 <br/>

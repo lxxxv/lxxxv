@@ -2,6 +2,8 @@
 
 ![delphi](https://img.shields.io/badge/-Delphi-535458?style=flat&logo=delphi)&nbsp;
 ![python](https://img.shields.io/badge/-Python-535458?style=flat&logo=python)&nbsp;
+![java](https://img.shields.io/badge/-Java-535458?style=flat&logo=delphi)&nbsp;
+<br/>
 ![git](https://img.shields.io/badge/-Git-535458?style=flat&logo=git)&nbsp;
 ![gitHub](https://img.shields.io/badge/-GitHub-535458?style=flat&logo=github)&nbsp;
 

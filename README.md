@@ -18,6 +18,7 @@
 ![mssql](https://img.shields.io/badge/-mssql-08AAD7?style=flat&logo=MSsql)&nbsp;
 <br/>
 ![jira](https://img.shields.io/badge/-Jira-08AAD7?style=flat&logo=jira)&nbsp;
+![jenkins](https://img.shields.io/badge/-Jenkins-08AAD7?style=flat&logo=jenkins)&nbsp;
 ![docker](https://img.shields.io/badge/-Docker-08AAD7?style=flat&logo=docker)&nbsp;
 <br/>
 ![git](https://img.shields.io/badge/-Git-08AAD7?style=flat&logo=git)&nbsp;

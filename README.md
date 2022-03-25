@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![delphi](https://img.shields.io/badge/-Delphi-EE1F35?style=flat&logo=Delphi)&nbsp;
-
+![delphi](https://img.shields.io/badge/-Delphi-EE1F35?style=flat&logo=delphi)&nbsp;
+![python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)&nbsp;
+![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)&nbsp;
+![gitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)&nbsp;
 
 <!--
 **lxxxv/lxxxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

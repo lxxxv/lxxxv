@@ -17,6 +17,9 @@
 ![firebird](https://img.shields.io/badge/-Firebird-08AAD7?style=flat&logo=thunderbird)&nbsp;
 ![mssql](https://img.shields.io/badge/-mssql-08AAD7?style=flat&logo=MSsql)&nbsp;
 <br/>
+![jira](https://img.shields.io/badge/-Jira-08AAD7?style=flat&logo=jira)&nbsp;
+![docker](https://img.shields.io/badge/-Docker-08AAD7?style=flat&logo=docker)&nbsp;
+<br/>
 ![git](https://img.shields.io/badge/-Git-08AAD7?style=flat&logo=git)&nbsp;
 ![gitHub](https://img.shields.io/badge/-GitHub-08AAD7?style=flat&logo=github)&nbsp;
 <br/>

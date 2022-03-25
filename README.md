@@ -1,15 +1,26 @@
 ### Hi there 👋
 
-![delphi](https://img.shields.io/badge/-Delphi-535458?style=flat&logo=delphi)&nbsp;
-![python](https://img.shields.io/badge/-Python-535458?style=flat&logo=python)&nbsp;
-![java](https://img.shields.io/badge/-Java-535458?style=flat&logo=java)&nbsp;
-![c++](https://img.shields.io/badge/-C++-535458?style=flat&logo=c++)&nbsp;
+![delphi](https://img.shields.io/badge/-Delphi-08AAD7?style=flat&logo=delphi)&nbsp;
+![python](https://img.shields.io/badge/-Python-08AAD7?style=flat&logo=python)&nbsp;
+![java](https://img.shields.io/badge/-Java-08AAD7?style=flat&logo=java)&nbsp;
+![c++](https://img.shields.io/badge/-C++-08AAD7?style=flat&logo=c++)&nbsp;
 <br/>
-![spring](https://img.shields.io/badge/-Spring-535458?style=flat&logo=spring)&nbsp;
-![spark](https://img.shields.io/badge/-Spark-535458?style=flat&logo=spark%20ar)&nbsp;
+![spring](https://img.shields.io/badge/-Spring-08AAD7?style=flat&logo=spring)&nbsp;
+![spark](https://img.shields.io/badge/-Spark-08AAD7?style=flat&logo=spark%20ar)&nbsp;
+![bootstrap](https://img.shields.io/badge/-Bootstrap-08AAD7?style=flat&logo=bootstrap)&nbsp;
+![veracrypt](https://img.shields.io/badge/-Veracrypt-08AAD7?style=flat&logo=veracrypt)&nbsp;
+![selenium](https://img.shields.io/badge/-Selenium-08AAD7?style=flat&logo=selenium)&nbsp;
 <br/>
-![git](https://img.shields.io/badge/-Git-535458?style=flat&logo=git)&nbsp;
-![gitHub](https://img.shields.io/badge/-GitHub-535458?style=flat&logo=github)&nbsp;
+![redis](https://img.shields.io/badge/-Redis-08AAD7?style=flat&logo=redis)&nbsp;
+![mariadb](https://img.shields.io/badge/-Mariadb-08AAD7?style=flat&logo=mariadb)&nbsp;
+![sqlite](https://img.shields.io/badge/-Sqlite-08AAD7?style=flat&logo=sqlite)&nbsp;
+![firebird](https://img.shields.io/badge/-Firebird-08AAD7?style=flat&logo=thunderbird)&nbsp;
+![mssql](https://img.shields.io/badge/-mssql-08AAD7?style=flat&logo=mssql)&nbsp;
+<br/>
+![git](https://img.shields.io/badge/-Git-08AAD7?style=flat&logo=git)&nbsp;
+![gitHub](https://img.shields.io/badge/-GitHub-08AAD7?style=flat&logo=github)&nbsp;
+<br/>
+
 
 <!--
 **lxxxv/lxxxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

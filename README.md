@@ -7,10 +7,13 @@
 ![c++](https://img.shields.io/badge/-C++-08AAD7?style=for-the-badge&logo=cplusplus)&nbsp;
 <br/>
 ![spring](https://img.shields.io/badge/-Spring-08AAD7?style=for-the-badge&logo=spring)&nbsp;
-![spark](https://img.shields.io/badge/-Spark-08AAD7?style=for-the-badge&logo=spark%20ar)&nbsp;
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-08AAD7?style=for-the-badge&logo=bootstrap)&nbsp;
 ![veracrypt](https://img.shields.io/badge/-Veracrypt-08AAD7?style=for-the-badge&logo=veracrypt)&nbsp;
 ![selenium](https://img.shields.io/badge/-Selenium-08AAD7?style=for-the-badge&logo=selenium)&nbsp;
+<br/>
+![spark](https://img.shields.io/badge/-Spark-08AAD7?style=for-the-badge&logo=Apache%20Spark)&nbsp;
+![hadoop](https://img.shields.io/badge/-Hadoop-08AAD7?style=for-the-badge&logo=Apache%20Hadoop)&nbsp;
+![kafka](https://img.shields.io/badge/-Kafka-08AAD7?style=for-the-badge&logo=Apache%20Kafka)&nbsp;
 <br/>
 ![redis](https://img.shields.io/badge/-Redis-08AAD7?style=for-the-badge&logo=redis)&nbsp;
 ![mariadb](https://img.shields.io/badge/-Mariadb-08AAD7?style=for-the-badge&logo=mariadb)&nbsp;

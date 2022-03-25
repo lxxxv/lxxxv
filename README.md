@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![delphi](https://img.shields.io/badge/-Delphi-#EE1F35?style=flat&logo=delphi)&nbsp;
+![delphi](https://img.shields.io/badge/-Delphi-000000?style=flat&logo=Delphi)&nbsp;
 
 
 <!--

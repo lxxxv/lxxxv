@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 ![delphi](https://img.shields.io/badge/-Delphi-#EE1F35?style=flat&logo=delphi)&nbsp;
-![python](https://img.shields.io/badge/-Python-#3776AB?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-#F05032?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-#181717?style=flat&logo=github)&nbsp;
 
 
 <!--

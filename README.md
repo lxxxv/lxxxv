@@ -30,11 +30,11 @@
 ![git](https://img.shields.io/badge/-Git-08AAD7?style=for-the-badge&logo=git)&nbsp;
 ![gitHub](https://img.shields.io/badge/-GitHub-08AAD7?style=for-the-badge&logo=github)&nbsp;
 <br/>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=lxxxv)
+<br/>
 
 ![lxxxv's github stats](https://github-readme-stats.vercel.app/api?username=lxxxv&show_icons=true)
-[![lxxxv's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lxxxv&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lxxxv)
+<br/>
+![trophy](https://github-profile-trophy.vercel.app/?username=lxxxv)
 
 <!--
 **lxxxv/lxxxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -31,7 +31,7 @@
 ![gitHub](https://img.shields.io/badge/-GitHub-364146?style=for-the-badge&logo=github)&nbsp;
 <br/>
 <br/>
-![trophy](https://github-profile-trophy.vercel.app/?username=lxxxv&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=lxxxv&no-frame=true&theme=onedark)
 
 <!--
 **lxxxv/lxxxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

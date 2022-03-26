@@ -31,12 +31,6 @@
 ![gitHub](https://img.shields.io/badge/-GitHub-364146?style=for-the-badge&logo=github)&nbsp;
 <br/>
 <br/>
-
-
-![lxxxv's github stats](https://github-readme-stats.vercel.app/api?username=lxxxv&show_icons=true)
-<br/>
-<br/>
-<br/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=lxxxv)
 
 <!--

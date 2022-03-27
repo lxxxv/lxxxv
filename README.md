@@ -25,6 +25,7 @@
 ![jira](https://img.shields.io/badge/-Jira-364146?style=for-the-badge&logo=jira)&nbsp;
 ![jenkins](https://img.shields.io/badge/-Jenkins-364146?style=for-the-badge&logo=jenkins)&nbsp;
 ![docker](https://img.shields.io/badge/-Docker-364146?style=for-the-badge&logo=docker)&nbsp;
+![installshield](https://img.shields.io/badge/-Installshield-364146?style=for-the-badge&logo=installshield)&nbsp;
 ![innosetup](https://img.shields.io/badge/-Inno%20Setup-364146?style=for-the-badge&logo=inno%20setup)&nbsp;
 <br/>
 ![git](https://img.shields.io/badge/-Git-364146?style=for-the-badge&logo=git)&nbsp;
